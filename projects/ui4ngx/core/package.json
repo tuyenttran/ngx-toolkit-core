@@ -1,0 +1,35 @@
+{
+    "name": "@ui4ngx/core",
+    "version": "1.11.1-alpha",
+    "author": {
+        "name": "Tuyen T Tran",
+        "email": "anhtuyen.tran@gmail.com",
+        "url": "http://www.exodussystem.com"
+    },
+    "private": false,
+    "keywords": [
+        "@ui4ngx/core",
+        "core",
+        "angular",
+        "@angular",
+        "angular 9",
+        "angular 10",
+        "angular 11",
+        "angular 12",
+        "angular 13",
+        "ng",
+        "ngx",
+        "ui",
+        "@ngx",
+        "@ui4ngx"
+    ],
+    "license": "MIT",
+    "peerDependencies": {
+        "@angular/common": "^11.2.14",
+        "@angular/core": "^11.2.14",
+        "uuid": "^8.3.2"
+    },
+    "dependencies": {
+        "tslib": "^2.0.0"
+    }
+}
